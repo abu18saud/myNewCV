@@ -47,7 +47,7 @@
             "NAME": "PROGRAMMING"
         }
     ],
-    "IMAGES": [
+    "PORTFOLIOS": [
         {
             "NAME": "SPACE_APPS_1",
             "IMG": "images/forMe/Hackathons/H1.jpg",
@@ -144,7 +144,12 @@
             "URL": "https://www.instagram.com/p/B72ut2zha1e/",
             "CATEGORY": "Personal"
         },
-        
+        {
+            "NAME": "MEDGULF_4",
+            "IMG": "images/forMe/Personal/P7.jpg",
+            "URL": "https://www.instagram.com/p/B4jUy45hRv-/",
+            "CATEGORY": "Personal"
+        },        
         {
             "NAME": "COVID_19",
             "IMG": "images/forMe/Personal/P2.jpg",
@@ -172,8 +177,38 @@
             "CATEGORY": "Personal"
         },
 
+        {
+            "NAME": "ASHARQIA_CHAMBER",
+            "IMG": "images/forMe/Personal/P6.jpg",
+            "URL": "https://www.instagram.com/p/BpkLJjOBu0S/",
+            "CATEGORY": "Personal"
+        },
+
+        {
+            "NAME": "PYTHON_6",
+            "IMG": "images/forMe/Videos/V4.jpg",
+            "URL": "https://www.youtube.com/embed/7Jnd7b0PlW4",
+            "DATED":"28/05/2021",
+            "CATEGORY": "Videos"
+        },        
+        {
+            "NAME": "SOFTWARE_ADVICE",
+            "IMG": "images/forMe/Videos/V2.png",
+            "URL": "https://www.youtube-nocookie.com/embed/AG_0WSPC66U",
+            "DATED":"04/05/2021",
+            "CATEGORY": "Videos"
+        }
         
     ],
+"ACHIEVEMENT":[
+{
+    
+}
+],
+
+
+
+
     "SOCAIL_MEDIA": [
         {
             "NAME": "WHATSAPP",
