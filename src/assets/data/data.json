@@ -1,0 +1,97 @@
+{
+    "EXPERIENCE": [
+        {
+            "NAME": "ELITE_SKILLS"                                   
+        },
+        {
+            "NAME": "ALYASEENAGRI"                                   
+        },
+        {
+            "NAME": "MEDGULF"                                    
+        },
+        {
+            "NAME": "PANDA"                                   
+        }        
+    ],
+
+    "EDUCATION": [
+        {
+            "NAME": "UI_UX_DESIGN"
+        },
+        {
+            "NAME": "WEB_DEVELOPMENT"
+        },
+        {
+            "NAME": "PHOTOGRAPHY"
+        },
+        {
+            "NAME": "ANDROID"
+        },
+        {
+            "NAME": "WINDOWS"
+        },
+        {
+            "NAME": "EXCEL"
+        },
+        {
+            "NAME": "DOT_NET"
+        },
+        {
+            "NAME": "DATABASE"
+        }        
+    ],
+    "SERVICES": [
+        {
+            "NAME": "CYBER_SECURITY"                                   
+        },
+        {
+            "NAME": "PROGRAMMING"                                   
+        }       
+    ],
+
+
+
+    
+    "SOCAIL_MEDIA": [
+        {
+            "NAME": "WHATSAPP",
+            "URL": "https://api.whatsapp.com/send?phone=966508532127",
+            "ICON": "whatsapp"
+        },
+        {
+            "NAME": "TELEGRAM",
+            "URL": "https://t.me/abu18saud1",
+            "ICON": "telegram"
+        },
+        {
+            "NAME": "GITHUB",
+            "URL": "https://github.com/abu18saud",
+            "ICON": "github"
+        },
+        {
+            "NAME": "YOUTUBE",
+            "URL": "https://www.youtube.com/channel/UCZ4gTbhZXWVdiJmGEaP9i6g?sub_confirmation=1",
+            "ICON": "youtube"
+        },
+        {
+            "NAME": "FACEBOOK",
+            "URL": "https://www.facebook.com/abu18saud",
+            "ICON": "facebook"
+        },
+        {
+            "NAME": "TWITTER",
+            "URL": "https://twitter.com/Abood_Alsalem_",
+            "ICON": "twitter"
+        },
+        {
+            "NAME": "LINKEDIN",
+            "URL": "https://www.linkedin.com/in/abu18saud/",
+            "ICON": "linkedin"
+        },
+        {
+            "NAME": "INSTAGRAM",
+            "URL": "https://www.instagram.com/abu18saud1/",
+            "ICON": "instagram"
+        }
+    ]
+}

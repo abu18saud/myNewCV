@@ -1,0 +1,12 @@
+{
+    "SOCIAL_MEDIA": {
+        "WHATSAPP": "Contact me via WhatsApp",
+        "TELEGRAM": "Contact me on Telegram",
+        "GITHUB": "Watch my educational codes via GitHub",
+        "YOUTUBE": "Watch my latest lessons through the technical lectures channel community in Al-Ahsa",
+        "FACEBOOK": "Visit my Facebook page",
+        "TWITTER": "Check out my latest inspiring tweets.",
+        "LINKEDIN": "See my news via the LinkedIn function.",
+        "INSTAGRAM": "Comment on my Instagram photos"
+    }
+}
