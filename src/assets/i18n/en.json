@@ -1,4 +1,48 @@
 {
+    "EXPERIENCE": {
+        "ELITE_SKILLS": "Skills Elite Medical Center for Speech Therapy and Child Rehabilitation",
+        "ALYASEENAGRI": "Al-Yaseen Agricultural Company",
+        "MEDGULF": "Mediterranean and Gulf Cooperative Insurance and Reinsurance Company (MEDGULF)",
+        "PANDA": "Panda Retail Company"
+    },
+    "TITLE_JOB": {
+        "ELITE_SKILLS": "software engineer",
+        "ALYASEENAGRI": "Software Engineer",
+        "MEDGULF": "Medical Insurance Policy Officer",
+        "PANDA": "treasurer"
+    },
+    "JOB_ADDRESS": {
+        "ELITE_SKILLS": "Al Mubarraz - Al Salam District II",
+        "ALYASEENAGRI": "Hofuf - King Fahd District",
+        "MEDGULF": "Khobar - King Fahd Street",
+        "PANDA": "foramen"
+    },
+    "JOB_DETAILS": {
+        "ELITE_SKILLS": "<center><h4>Task</h4></center><!-- Job Summary --><p class='rtl_dir content-p' style='margin-top: 0%;' <1 - Developing websites for the center <br> 2 - Developing smart phone applications for the center <br> 3 - Managing the center’s network <br> 4 - Maintaining the center’s printers <br> 5 - Managing the center’s domains <br> 6 - Technical support<br > 7 - Technical Contract Management <br> 8 - Technical Hardware and Software Licenses Purchase <br> 9 - Software License Management<!-- <b><a href='assets/PDFs/Employment Contract.pdf' target='_blank' >here you will find the employment contract</a></b> --></p>",
+        "ALYASEENAGRI": "<center><h4>Tasks</h4></center><!-- Job Summary --><p class='rtl_dir content-p' style='margin-top: 0%;' > 1 - develop the company's websites <br> 2 - develop the company's applications <br> 3 - manage the company's network <br> 4 - maintain the company's printers <br> 5 - manage the company's domains <br> 6 - technical support for branches <br > 7 - Managing the Technical Covenant <br> 8 - Purchasing technical hardware and software licenses <br> 9 - Managing software licenses <br> 10 - Following up on the projects of developed companies <br> <!-- <b><a href='assets /PDFs/Employment Contract.pdf' target='_blank'>Here</a></b> --></p>",
+        "MEDGULF": "<!-- Job Summary --><p class='content-p rtl_dir'>Knowledge of a lot of experience in the medical and general insurance sector, I also gained great knowledge of Microsoft Excel and developed many programs that shorten the performance time Work hard as Travel Insurance Certificate Generator and Excel List Debugger via WindowsFormsApplication C# <br><br> Experience document can be found at <a href='https://drive.google.com/file/d/1jwVQ4mxKrNi9Wy1BDqBZ2VFZDq89B5Hk/view ?usp=sharing' target='_blank'>here</a></p>",
+        "PANDA": "<!-- Job Summary --><p class='content-p rtl_dir'> From this work I gained knowledge of personality types, how to deal with customers, speed of accounting and with the customer as a close friend</p>"
+    },
+    "EDUCATION_MAJOR": {
+        "CYBER_SECURITY": "Cyber ​​Security",
+        "PROGRAMMING": "Programming"
+    },
+    "EDUCATION_UNIVERSITY": {
+        "CYBER_SECURITY": "Al-Ahsa Technical College",
+        "PROGRAMMING": "Al-Ahsa Technical College"
+    },
+    "EDUCATION_ADDRESS": {
+        "CYBER_SECURITY": "Kingdom of Saudi Arabia",
+        "PROGRAMMING": "Kingdom of Saudi Arabia"
+    },
+    "EDUCATION_CERTIFICATE_NAME": {
+        "CYBER_SECURITY": "Bachelor",
+        "PROGRAMMING": "Intermediate University Degree"
+    },
+    "EDUCATION_DESCRIPTION": {
+        "CYBER_SECURITY": "",
+        "PROGRAMMING": ""
+    },
     "SOCIAL_MEDIA": {
         "WHATSAPP": "Contact me via WhatsApp",
         "TELEGRAM": "Contact me on Telegram",
@@ -82,5 +126,25 @@
         "MONEY_LAUNDERING": "Compliance and Anti-Money Laundering and Fraud",
         "ENGLISH_PROGRAM": "Scientific Excellence in Intensive English",
         "SCIENTIFIC_EXCELLENCE": "Scientific Excellence Award"
+    },
+    "PROJECTS": {
+        "TECHNOLOGY_COLLEGE_COURSES": "Al-Ahsa Technical College Lectures Channel Guide",
+        "ELITE_SKILLS": "Elite Skills Website",
+        "TVTC_GAME": "Collect TVTC Logos Game",
+        "MUNTAJATY": "My Products Program",
+        "MUNTAJATY_STORE": "My Products Market",
+        "SANDATI": "My Bond Site",
+        "CV_FORM": "Electronic CV Application Form",
+        "ALYASSENAGRI_ENTRY_WEB": "Internal website of Al-Yaseen Agricultural Company"
+    },
+    "PROJECTS_DETAILS": {
+        "TECHNOLOGY_COLLEGE_COURSES": "<!-- Some Info About Item --><p class='text-center rtl_dir_center'> I developed this site to help colleagues in cybersecurity to access playlists for lessons, tutorials, and documents</p>",
+        "ELITE_SKILLS": "<!-- Some Info About Item --><p class='text-center rtl_dir_center'> I have developed this site for a private entity in the name of Elite Medical Skills Center, and this center is dedicated to the rehabilitation of speech and behavior in children and I used to work for them During its completion, the project started from January 30, 2022 to June 02, 2022, knowing that my birthday is June 1 and it was not celebrated 😅</p>",
+        "TVTC_GAME": "<!-- Some Info About Item --><p class='text-center rtl_dir_center'> I, Abdullah Al-Salem, developed this beautiful game in 2013, but I did not export it to a mobile format and I lost its code forever. All that remains is this video, which proves that I created it 😭😭😭</p>",
+        "MUNTAJATY": "<!-- Some Info About Item --><p class='text-center'> I programmed my product program in order to sell it on shops, but this program did not see the light of day, as the shops recently started It is completely dependent on the web and it is recommended that I develop the program itself to be on the web when my financial conditions are better.</p>",
+        "MUNTAJATY_STORE": "<!-- Some Info About Item --><p class='rtl_dir_center'>This website is directly related to the accounting software and has not been published for several because it needs marketing and a strong technical partner.</p>",
+        "SANDATI": "<!-- Some Info About Item --><p class='text-center'>This project is an Asp.Net MVC C# website with the help of this list: <a href='https:// www.youtube.com/playlist?list=PLwj1YcMhLRN3HKfGd_jgO1Odr1xWXU9Yf'>Here is the list to follow</a></p>",
+        "CV_FORM": "<!-- Some Info About Item --><p class='rtl_dir'>I have used the following techniques to program and design this form:<ol><li style='display: inline;'>HTML5, </li><li style='display: inline;'>CSS3,</li><li style='display: inline;'>JavaScript,</li><li style='display: inline;'>Firebase Storage + firebase Real Time,</li><li style='display: inline;''>Telegram Bot</li></ol></p>",
+        "ALYASSENAGRI_ENTRY_WEB": "<!-- Some Info About Item --><p class='rtl_dir'>I have used the following techniques to program and design this model:<ol><li style='display: inline;'>Angular< /li><li style='display: inline;''>Angular Material,</li><li style='display: inline;''>NestJS,</li><li style='display: inline;''>MySQL </li></ol></p>"
     }
 }

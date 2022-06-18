@@ -1,59 +1,100 @@
 {
     "EXPERIENCE": [
         {
-            "NAME": "ELITE_SKILLS"
+            "NAME": "ELITE_SKILLS",
+            "HIRE_DATE": "01/03/2022",
+            "HIRE_DATE_HIJRI": "28/07/1443",
+            "RESIGNATION_DATE": "",
+            "RESIGNATION_DATE_HIJRI": "",
+            "URL": "https://eliteskills.sa/",
+            "EXPERIENCE_DOC": "",
+            "ICON": ""
         },
         {
-            "NAME": "ALYASEENAGRI"
+            "NAME": "ALYASEENAGRI",
+            "HIRE_DATE": "22/08/2021",
+            "HIRE_DATE_HIJRI": "14/01/1443",
+            "RESIGNATION_DATE": "28/02/2022",
+            "RESIGNATION_DATE_HIJRI": "27/07/1443",
+            "URL": "https://alyaseenagri.com/",
+            "EXPERIENCE_DOC": "",
+            "ICON": ""
         },
         {
-            "NAME": "MEDGULF"
+            "NAME": "MEDGULF",
+            "HIRE_DATE": "15/03/2015",
+            "HIRE_DATE_HIJRI": "24/05/1436",
+            "RESIGNATION_DATE": "12/11/2020",
+            "RESIGNATION_DATE_HIJRI": "26/03/1442",
+            "URL": "https://www.medgulf.com.sa/",
+            "EXPERIENCE_DOC": "https://drive.google.com/file/d/1jwVQ4mxKrNi9Wy1BDqBZ2VFZDq89B5Hk/view?usp=sharing",
+            "ICON": ""
         },
         {
-            "NAME": "PANDA"
+            "NAME": "PANDA",
+            "HIRE_DATE": "01/09/2011",
+            "HIRE_DATE_HIJRI": "01/10/1432",
+            "RESIGNATION_DATE": "01/01/2012",
+            "RESIGNATION_DATE_HIJRI": "01/02/1433",
+            "URL": "https://careers.panda.com.sa/ar/",
+            "EXPERIENCE_DOC": "",
+            "ICON": ""
         }
     ],
     "SERVICES": [
         {
             "NAME": "UI_UX_DESIGN",
-            "ICON":""
+            "ICON": ""
         },
         {
             "NAME": "WEB_DEVELOPMENT",
-            "ICON":"ion-code"
+            "ICON": "ion-code"
         },
         {
             "NAME": "PHOTOGRAPHY",
-            "ICON":""            
+            "ICON": ""
         },
         {
             "NAME": "ANDROID",
-            "ICON":"ion-social-android"
+            "ICON": "ion-social-android"
         },
         {
             "NAME": "WINDOWS",
-            "ICON":"ion-social-windows"            
-            
+            "ICON": "ion-social-windows"
         },
         {
             "NAME": "EXCEL",
-            "ICON":"mdi mdi-microsoft-excel"            
+            "ICON": "mdi mdi-microsoft-excel"
         },
         {
             "NAME": "DOT_NET",
-            "ICON":"mdi mdi-dot-net"            
+            "ICON": "mdi mdi-dot-net"
         },
         {
             "NAME": "DATABASE",
-            "ICON":"mdi mdi-database"            
+            "ICON": "mdi mdi-database"
         }
     ],
     "EDUCATION": [
         {
-            "NAME": "CYBER_SECURITY"
+            "NAME": "CYBER_SECURITY",
+            "START_DATE": "01/01/2021",
+            "END_DATE": "",
+            "START_DATE_HIJRI": "01/01/2021",
+            "END_DATE_HIJRI": "",
+            "GPA": "4.81",
+            "FULL_GPA": "5.00",
+            "CERTIFICATE_DOC": "https://drive.google.com/file/d/1pmXRI78B0xbOULS3ydaHfSiCecyzS-3R/view?usp=sharing"
         },
         {
-            "NAME": "PROGRAMMING"
+            "NAME": "PROGRAMMING",
+            "START_DATE": "01/01/2012",
+            "END_DATE": "01/03/2014",
+            "START_DATE_HIJRI": "",
+            "END_DATE_HIJRI": "",
+            "GPA": "4.88",
+            "FULL_GPA": "5.00",
+            "CERTIFICATE_DOC": "https://drive.google.com/file/d/0B9e373t_B65XSEo3YVhibVFYakE/view?resourcekey=0-N_4GodIwiDifmqrQSqQp8Q"
         }
     ],
     "PORTFOLIOS": [
@@ -595,6 +636,96 @@
             "CERTIFIED_URL": "https://www.tvtc.gov.sa/",
             "ICON": "mdi mdi-certificate"
         }
+    ],
+    "PROJECTS": [
+        {
+            "NAME": "TECHNOLOGY_COLLEGE_COURSES",
+            "TYPE": "WEBSITE",
+            "PUBLISHED": "02/02/2022",
+            "START": "",
+            "URL": "https://technologycollegecourses.netlify.app/",
+            "URL_CODE": "",
+            "URL_DOWNLOAD": "",
+            "URL_VIDEO": "",
+            "ICON": "mdi mdi-video"
+        },
+        {
+            "NAME": "ELITE_SKILLS",
+            "TYPE": "WEBSITE",
+            "PUBLISHED": "02/06/2022",
+            "START": "",
+            "URL": "https://eliteskills.sa/",
+            "URL_CODE": "",
+            "URL_DOWNLOAD": "",
+            "URL_VIDEO": "",
+            "ICON": "mdi mdi-baby-face-outline"
+        },
+        {
+            "NAME": "TVTC_GAME",
+            "TYPE": "GAME",
+            "PUBLISHED": "29/12/2013",
+            "START": "",
+            "URL": "",
+            "URL_CODE": "",
+            "URL_DOWNLOAD": "",
+            "URL_VIDEO": "https://youtu.be/-rPrIFsOPNg",
+            "ICON": "mdi mdi-run"
+        },
+        {
+            "NAME": "MUNTAJATY",
+            "TYPE": "WINDOWS_PROGRAM",
+            "PUBLISHED": "25/08/2017",
+            "START": "",
+            "URL": "",
+            "URL_CODE": "",
+            "URL_DOWNLOAD": "https://firebasestorage.googleapis.com/v0/b/muntajatyclassic.appspot.com/o/versions%2FSetup_1.0.0.2.msi?alt=media&token=911dba74-2910-4557-8fc9-b2197a2a7b45",
+            "URL_VIDEO": "",
+            "ICON": "mdi mdi-run"
+        },
+        {
+            "NAME": "MUNTAJATY_STORE",
+            "TYPE": "WEBSITE",
+            "PUBLISHED": "26/02/2020",
+            "START": "",
+            "URL": "http://abu18saud1-001-site1.dtempurl.com/",
+            "URL_CODE": "",
+            "URL_DOWNLOAD": "",
+            "URL_VIDEO": "",
+            "ICON": "fas fa-shopping-cart"
+        },
+        {
+            "NAME": "SANDATI",
+            "TYPE": "WEBSITE",
+            "PUBLISHED": "19/10/2019",
+            "START": "",
+            "URL": "",
+            "URL_CODE": "https://gitlab.com/abdullahalsalem18/sandti_mvc.git",
+            "URL_DOWNLOAD": "",
+            "URL_VIDEO": "",
+            "ICON": "fas fa-passport"
+        },
+        {
+            "NAME": "CV_FORM",
+            "TYPE": "WEBSITE",
+            "PUBLISHED": "23/06/2021",
+            "START": "",
+            "URL": "https://cv-form-progknights.netlify.app/",
+            "URL_CODE": "",
+            "URL_DOWNLOAD": "",
+            "URL_VIDEO": "",
+            "ICON": "fas fa-file-code"
+        },
+        {
+            "NAME": "ALYASSENAGRI_ENTRY_WEB",
+            "TYPE": "WEBSITE",
+            "PUBLISHED": "17/12/2021",
+            "START": "",
+            "URL": "",
+            "URL_CODE": "",
+            "URL_DOWNLOAD": "",
+            "URL_VIDEO": "https://youtu.be/adZzMVj_T4U",
+            "ICON": "mdi mdi-angular"
+        }        
     ],
     "SOCAIL_MEDIA": [
         {
