@@ -13,33 +13,42 @@
             "NAME": "PANDA"
         }
     ],
-    "EDUCATION": [
+    "SERVICES": [
         {
-            "NAME": "UI_UX_DESIGN"
+            "NAME": "UI_UX_DESIGN",
+            "ICON":""
         },
         {
-            "NAME": "WEB_DEVELOPMENT"
+            "NAME": "WEB_DEVELOPMENT",
+            "ICON":"ion-code"
         },
         {
-            "NAME": "PHOTOGRAPHY"
+            "NAME": "PHOTOGRAPHY",
+            "ICON":""            
         },
         {
-            "NAME": "ANDROID"
+            "NAME": "ANDROID",
+            "ICON":"ion-social-android"
         },
         {
-            "NAME": "WINDOWS"
+            "NAME": "WINDOWS",
+            "ICON":"ion-social-windows"            
+            
         },
         {
-            "NAME": "EXCEL"
+            "NAME": "EXCEL",
+            "ICON":"mdi mdi-microsoft-excel"            
         },
         {
-            "NAME": "DOT_NET"
+            "NAME": "DOT_NET",
+            "ICON":"mdi mdi-dot-net"            
         },
         {
-            "NAME": "DATABASE"
+            "NAME": "DATABASE",
+            "ICON":"mdi mdi-database"            
         }
     ],
-    "SERVICES": [
+    "EDUCATION": [
         {
             "NAME": "CYBER_SECURITY"
         },
@@ -221,7 +230,7 @@
             "ID": "1059-21378354",
             "URL": "",
             "CERTIFICATE_URL": "https://www.sololearn.com/Certificate/1059-21378354/jpg",
-            "CODE_URL": "",
+            "CODE_URL": "https://github.com/abu18saud/PHP_Learn",
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.sololearn.com/home",
             "ICON": "mdi mdi-language-php"
@@ -266,7 +275,7 @@
             "ID": "1162-21378354",
             "URL": "",
             "CERTIFICATE_URL": "https://www.sololearn.com/Certificate/1162-21378354/jpg",
-            "CODE_URL": "",
+            "CODE_URL": "https://github.com/abu18saud/Responsive-Web-Design",
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.sololearn.com/home",
             "ICON": "mdi mdi-responsive"
@@ -281,7 +290,7 @@
             "ID": "1082-21378354",
             "URL": "",
             "CERTIFICATE_URL": "https://www.sololearn.com/Certificate/1082-21378354/jpg",
-            "CODE_URL": "",
+            "CODE_URL": "https://github.com/abu18saud/jQuery",
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.sololearn.com/home",
             "ICON": "mdi mdi-jquery"
@@ -296,7 +305,7 @@
             "ID": "1024-21378354",
             "URL": "",
             "CERTIFICATE_URL": "https://www.sololearn.com/certificates/course/en/21378354/1024/landscape/png",
-            "CODE_URL": "",
+            "CODE_URL": "https://github.com/abu18saud/JavaScript",
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.sololearn.com/home",
             "ICON": "mdi mdi-nodejs"
@@ -326,7 +335,7 @@
             "ID": "21378354-1024",
             "URL": "",
             "CERTIFICATE_URL": "https://www.sololearn.com/Certificate/1023-21378354/jpg/",
-            "CODE_URL": "",
+            "CODE_URL": "https://github.com/abu18saud/myBlog",
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.sololearn.com/home",
             "ICON": "mdi mdi-format-line-style"
@@ -407,7 +416,7 @@
             "ICON": "mdi mdi-shopping"
         },
         {
-            "NAME": "Google_MENA_2",
+            "NAME": "GOOGLE_MENA_2",
             "CERTIFIED": "GOOGLE",
             "DATED": "03/02/2019",
             "START_DATE": "",
@@ -422,7 +431,7 @@
             "ICON": "mdi mdi-google"
         },
         {
-            "NAME": "Google_MENA_1",
+            "NAME": "GOOGLE_MENA_1",
             "CERTIFIED": "GOOGLE",
             "DATED": "03/01/2019",
             "START_DATE": "",
@@ -480,8 +489,7 @@
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://tcac.sa/",
             "ICON": "mdi mdi-face-agent"
-        }
-,
+        },
         {
             "NAME": "HAJJ_HACKATHON",
             "CERTIFIED": "SAFCSP",
@@ -496,8 +504,7 @@
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://safcsp.org.sa/",
             "ICON": "fas fa-kaaba"
-        }
-,
+        },
         {
             "NAME": "MEDICAL_INSURANCE",
             "CERTIFIED": "MEDGULF",
@@ -527,8 +534,7 @@
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.medgulf.com.sa/",
             "ICON": "fas fa-people-arrows"
-        }
-,
+        },
         {
             "NAME": "IFCE",
             "CERTIFIED": "SAMA",
@@ -543,8 +549,7 @@
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.sama.gov.sa/ar-sa/Pages/default.aspx",
             "ICON": "fas fa-car-crash"
-        }     
-,
+        },
         {
             "NAME": "MONEY_LAUNDERING",
             "CERTIFIED": "MEDGULF",
@@ -559,8 +564,7 @@
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.medgulf.com.sa/",
             "ICON": "mdi mdi-tumble-dryer-alert"
-        }             
-,
+        },
         {
             "NAME": "ENGLISH_PROGRAM",
             "CERTIFIED": "TVTC",
@@ -575,8 +579,7 @@
             "VIDEO_URL": "",
             "CERTIFIED_URL": "https://www.tvtc.gov.sa/",
             "ICON": "mdi mdi-translate"
-        }        
-,
+        },
         {
             "NAME": "SCIENTIFIC_EXCELLENCE",
             "CERTIFIED": "TVTC",
@@ -592,12 +595,6 @@
             "CERTIFIED_URL": "https://www.tvtc.gov.sa/",
             "ICON": "mdi mdi-certificate"
         }
-
-
-
-
-
-
     ],
     "SOCAIL_MEDIA": [
         {
