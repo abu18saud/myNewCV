@@ -146,5 +146,41 @@
         "SANDATI": "<!-- Some Info About Item --><p class='text-center'>This project is an Asp.Net MVC C# website with the help of this list: <a href='https:// www.youtube.com/playlist?list=PLwj1YcMhLRN3HKfGd_jgO1Odr1xWXU9Yf'>Here is the list to follow</a></p>",
         "CV_FORM": "<!-- Some Info About Item --><p class='rtl_dir'>I have used the following techniques to program and design this form:<ol><li style='display: inline;'>HTML5, </li><li style='display: inline;'>CSS3,</li><li style='display: inline;'>JavaScript,</li><li style='display: inline;'>Firebase Storage + firebase Real Time,</li><li style='display: inline;''>Telegram Bot</li></ol></p>",
         "ALYASSENAGRI_ENTRY_WEB": "<!-- Some Info About Item --><p class='rtl_dir'>I have used the following techniques to program and design this model:<ol><li style='display: inline;'>Angular< /li><li style='display: inline;''>Angular Material,</li><li style='display: inline;''>NestJS,</li><li style='display: inline;''>MySQL </li></ol></p>"
+    },
+    "YOUTUBE_PLAYLISTS": {
+        "JAVASCRIPT_CODERHUB": "Coderhub JavaScript Challenge Series",
+        "C_SHARP_SESSIONS": "C# Sessions",
+        "PYTHON_COURSE": "Python strengthening",
+        "ANGULAR_COURSE": "Website development by Angular"
+    },
+    "YOUTUBE_PLAYLISTS_DETAILS": {
+        "JAVASCRIPT_CODERHUB": "This list is primarily intended to help my loved ones who are beginners in the world of programming on how to get started, as I tell them through this series to avoid errors and quickly solve all the problems they will face in programming when they are advanced",
+        "C_SHARP_SESSIONS": "This list is a broadcast dedicated to the C# community of the Saudi Federation for Cyber ​​Security, and the main purpose of it was for all participants to pass the admission test in the dotnet camp",
+        "PYTHON_COURSE": "This reinforcement is provided by Abdullah Al-Salem, and the first objective of it is for all trainees to pass the programming principles course and for all of them to obtain a cumulative score of 5 out of 5 in this course.",
+        "ANGULAR_COURSE": "This is a voluntary course that I offer to the girls of the Digital Technical College in Al-Ahsa, and my goal through it is that everyone who watches me will be able to create a simple website within ten minutes, and it also includes a lot of important programming vocabulary in the modern Internet world."
+    },
+    "YOUTUBE_PLAYLISTS_HINT": {
+        "JAVASCRIPT_CODERHUB": "",
+        "C_SHARP_SESSIONS": "",
+        "PYTHON_COURSE": "",
+        "ANGULAR_COURSE": ""
+    },
+    "INSPIRATIONAL_PHRASES": {
+        "PHRASE_1": "“A person must learn how to speak, for speech expresses the personality of its owner, so choosing beautiful words, and polite phrases, all express a respected person who is able to win over others and influence them.”",
+        "PHRASE_2": "Being dear absent is much better for you than being present but of no value.",
+        "PHRASE_3": "“A person who can master patience can master anything else, as much as patience comes algebra, praise be to God always and forever.”",
+        "PHRASE_4": "Do not enter the life of those who do not need you, and do not impose yourself on those who reject you. It is better to leave in pain and lofty than to remain entertained and humiliated.. Whoever does not feel happy in your proximity, be sure that your happiness will be in his distance."
+    },
+    "INSPIRATIONAL_PHRASES_AUTHORS": {
+        "PHRASE_1": "Abdullah Al-Salem",
+        "PHRASE_2": "hair",
+        "PHRASE_3": "“Sayings and Rulings of the Philosophers”",
+        "PHRASE_4": "purity"
+    },
+    "INSPIRATIONAL_PHRASES_HINT": {
+        "PHRASE_1": "Click here to go to the profile of (Abdullah Al Salem) on Twitter",
+        "PHRASE_2": "Click here to go to (Hair)'s Twitter profile",
+        "PHRASE_3": "Click here to go to the profile of (sayings and wisdom of philosophers) on Twitter",
+        "PHRASE_4": "Click here to go to Naqa's Twitter profile"
     }
 }

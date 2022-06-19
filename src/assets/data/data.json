@@ -725,7 +725,7 @@
             "URL_DOWNLOAD": "",
             "URL_VIDEO": "https://youtu.be/adZzMVj_T4U",
             "ICON": "mdi mdi-angular"
-        }        
+        }
     ],
     "SOCAIL_MEDIA": [
         {
@@ -767,6 +767,59 @@
             "NAME": "INSTAGRAM",
             "URL": "https://www.instagram.com/abu18saud1/",
             "ICON": "instagram"
+        }
+    ],
+    "YOUTUBE_PLAYLISTS": [
+        {
+            "NAME": "JAVASCRIPT_CODERHUB",
+            "IMG": "images/forMe/Youtube/Challanges.jpeg",
+            "URL": "https://youtube.com/playlist?list=PLDWGNpNXof-DfFGCD-NQZBoV2dZdg_bwl",
+            "PUBLISHED": "25/09/2021"
+        },
+        {
+            "NAME": "C_SHARP_SESSIONS",
+            "IMG": "images/forMe/Youtube/C_Sharp_2.jpg",
+            "URL": "https://www.youtube.com/playlist?list=PLDWGNpNXof-D3Pf5r6RpoKyyouSp00E97",
+            "PUBLISHED": "29/03/2021"
+        },
+        {
+            "NAME": "PYTHON_COURSE",
+            "IMG": "images/forMe/Youtube/Y1.jpg",
+            "URL": "https://www.youtube.com/playlist?list=PLDWGNpNXof-D6IZLnav6WsAIYCD_b0EtG",
+            "PUBLISHED": "28/05/2021"
+        },
+        {
+            "NAME": "ANGULAR_COURSE",
+            "IMG": "images/forMe/Youtube/تطوير المواقع بواسطة Angular (3).png",
+            "URL": "https://youtube.com/playlist?list=PLDWGNpNXof-CqZoV8DOXzybeYz62ttM4U",
+            "PUBLISHED": "18/02/2022"
+        }
+    ],
+    "ALL_PLAYLIST": "https://www.youtube.com/c/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A7%D8%AA%D8%A7%D9%84%D9%83%D9%84%D9%8A%D8%A9%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A9%D8%A8%D8%A7%D9%84%D8%A3%D8%AD%D8%B3%D8%A7%D8%A1/playlists",
+    "INSPIRATIONAL_PHRASES": [
+        {
+            "NAME": "PHRASE_1",
+            "URL": "https://twitter.com/Abood_Alsalem_/status/1538629384260698118",
+            "IMG": "https://pbs.twimg.com/profile_images/1525056516939730944/7kkVc5n3_400x400.jpg",
+            "PUBLISHED": "20/06/2022"
+        },
+        {
+            "NAME": "PHRASE_2",
+            "URL": "https://twitter.com/Sh3rj",
+            "IMG": "https://pbs.twimg.com/profile_images/853434194265083904/nNBYEOYU_400x400.jpg",
+            "PUBLISHED": "20/06/2022"
+        },
+        {
+            "NAME": "PHRASE_3",
+            "URL": "https://twitter.com/heekma",
+            "IMG": "https://pbs.twimg.com/profile_images/1704261998/ss_400x400.jpg",
+            "PUBLISHED": "20/06/2022"
+        },
+        {
+            "NAME": "PHRASE_4",
+            "URL": "https://twitter.com/MlayanM",
+            "IMG": "https://pbs.twimg.com/profile_images/1387498923657515008/9WS16fYl_400x400.jpg",
+            "PUBLISHED": "20/06/2022"
         }
     ]
 }
