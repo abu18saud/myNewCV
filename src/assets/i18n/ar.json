@@ -182,5 +182,35 @@
         "PHRASE_2": "أنقر هنا للذهاب إلى الملف الشخصي لـ (شعر) في تويتر",
         "PHRASE_3": "أنقر هنا للذهاب إلى الملف الشخصي لـ (أقوال وحكم الفلاسفة) في تويتر",
         "PHRASE_4": "أنقر هنا للذهاب إلى الملف الشخصي لـ (نقاء) في تويتر"
+    },
+    "LEARNING_CHANNELS": {
+        "PROGRAMMING_IS_FUN": "البرمجة ممتعة - مع عبدالله السالم",
+        "JUST_TECHNOLOGY": "قناة تقنية وبس",
+        "PYTHON_COMMUNITY": "مجتمع Python",
+        "JAVASCRIPT_COMMUNITY": "مجتمع JavaScript",
+        "FOX_LEARN_CHANNEL": "قناة FoxLearn",
+        "KHALID_ESSAADANI": "قناة خالد السعداني",
+        "PYTHON_ARABIC_COMMUNITY": "مجتمع بايثون العربي",
+        "PROGRAMMING_KNOWLEDGE": "ProgrammingKnowledge"
+    },
+    "LEARNING_CHANNELS_HINT": {
+        "PROGRAMMING_IS_FUN": "البرمجة ممتعة - مع عبدالله السالم",
+        "JUST_TECHNOLOGY": "قناة تقنية وبس",
+        "PYTHON_COMMUNITY": "مجتمع Python",
+        "JAVASCRIPT_COMMUNITY": "مجتمع JavaScript",
+        "FOX_LEARN_CHANNEL": "قناة FoxLearn",
+        "KHALID_ESSAADANI": "قناة خالد السعداني",
+        "PYTHON_ARABIC_COMMUNITY": "مجتمع بايثون العربي",
+        "PROGRAMMING_KNOWLEDGE": "ProgrammingKnowledge"
+    },
+    "LEARNING_CHANNELS_BENEFIT": {
+        "PROGRAMMING_IS_FUN": "تعلم لغات البرمجة",
+        "JUST_TECHNOLOGY": "حلول تقنية",
+        "PYTHON_COMMUNITY": "تعلم لغة بايثون",
+        "JAVASCRIPT_COMMUNITY": "تعلم JavaScript",
+        "FOX_LEARN_CHANNEL": "تعلم لغة C#",
+        "KHALID_ESSAADANI": "تعلم لغة C#",
+        "PYTHON_ARABIC_COMMUNITY": "تعلم لغة بايثون",
+        "PROGRAMMING_KNOWLEDGE": "تعلم لغات البرمجة"
     }
 }

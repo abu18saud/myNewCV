@@ -8,7 +8,8 @@
             "RESIGNATION_DATE_HIJRI": "",
             "URL": "https://eliteskills.sa/",
             "EXPERIENCE_DOC": "",
-            "ICON": ""
+            "ICON": "",
+            "LOGO": "images/forMe/Companies/eliteskills.svg"
         },
         {
             "NAME": "ALYASEENAGRI",
@@ -18,7 +19,8 @@
             "RESIGNATION_DATE_HIJRI": "27/07/1443",
             "URL": "https://alyaseenagri.com/",
             "EXPERIENCE_DOC": "",
-            "ICON": ""
+            "ICON": "",
+            "LOGO": "images/forMe/Companies/alyaseen.jpeg"
         },
         {
             "NAME": "MEDGULF",
@@ -28,7 +30,8 @@
             "RESIGNATION_DATE_HIJRI": "26/03/1442",
             "URL": "https://www.medgulf.com.sa/",
             "EXPERIENCE_DOC": "https://drive.google.com/file/d/1jwVQ4mxKrNi9Wy1BDqBZ2VFZDq89B5Hk/view?usp=sharing",
-            "ICON": ""
+            "ICON": "",
+            "LOGO": "images/forMe/Companies/Medgulf.png"
         },
         {
             "NAME": "PANDA",
@@ -38,7 +41,8 @@
             "RESIGNATION_DATE_HIJRI": "01/02/1433",
             "URL": "https://careers.panda.com.sa/ar/",
             "EXPERIENCE_DOC": "",
-            "ICON": ""
+            "ICON": "",
+            "LOGO": "images/forMe/Companies/panda.png"
         }
     ],
     "SERVICES": [
@@ -820,6 +824,64 @@
             "URL": "https://twitter.com/MlayanM",
             "IMG": "https://pbs.twimg.com/profile_images/1387498923657515008/9WS16fYl_400x400.jpg",
             "PUBLISHED": "20/06/2022"
+        }
+    ],
+    "LEARNING_CHANNELS": [
+        {
+            "NAME": "PROGRAMMING_IS_FUN",
+            "NUMBER_OF_MEMBERS": "395",
+            "TYPE": "TELEGRAM",
+            "IMG": "https://cdn4.telegram-cdn.org/file/JNId3xwUHmLbbhVSR18vIBDc3EkUzquhzZKpR1p6nXs7b1xoqa5NONTEj4vAKTIJW20bei99RdaSbrgCJ9O8nHfCAA_cMs9rRZmKZarTA8R7L-eQacUirsg5EHJlSTegx0csV0nCm29zzMKwwAWRD3s0glCUy8xcwjH0ZN6Sfb6z72vg1JoA1kGkPNJI_LmRxQ726_XVzkcDlyWPlaluDrjPx6gHabZGTkSkmodxXYWvhL9hBzRntqH0kIyt_b5YJiI2AlSs6RRyGywdMB9K3bvTab5aXm5pR9kvZVQKWOn-gDY5KoaVuxex7oLSZW4TfZT8MVYi8FUt3yYnSaO0tg.jpg",
+            "URL": "https://t.me/CsharpAbdullahAlsalem"
+        },
+        {
+            "NAME": "JUST_TECHNOLOGY",
+            "NUMBER_OF_MEMBERS": "122",
+            "TYPE": "TELEGRAM",
+            "IMG": "https://cdn4.telegram-cdn.org/file/TR6Hd5JS7WaQk6cab8Go3Fx8aFMbiNLAgjMk_wUU6GxGUsOj5y1swM-wBx5JQi51SzW7tl1imNnJ2Ou25OdVCnuL6i6A2Wer0EU5voLA8hn-uMwyjjZkgnTHYBKdsAXlAW2RMsb3iMujGB2rFPERDmuk7geP35U6rA2626cDJh8diqhvTXmsxWS3Ctihm9Y1ik4NVo65JF1F_nZTWNYZAFr48_1UIxNPJyWY1oHsXT_TuYDHRXWdq_SgfBEZKzNz26PAYVIXL24TFl5GgSE2RTk4AP5MdC6fRmGhdF9rQizlNrmUuNA8fPy0UtuZP5hZXRyf2ExGEUm_GtB94Ju71A.jpg",
+            "URL": "https://t.me/JustTechology"
+        },
+        {
+            "NAME": "PYTHON_COMMUNITY",
+            "NUMBER_OF_MEMBERS": "4236",
+            "TYPE": "TELEGRAM",
+            "IMG": "https://cdn4.telegram-cdn.org/file/TR6Hd5JS7WaQk6cab8Go3Fx8aFMbiNLAgjMk_wUU6GxGUsOj5y1swM-wBx5JQi51SzW7tl1imNnJ2Ou25OdVCnuL6i6A2Wer0EU5voLA8hn-uMwyjjZkgnTHYBKdsAXlAW2RMsb3iMujGB2rFPERDmuk7geP35U6rA2626cDJh8diqhvTXmsxWS3Ctihm9Y1ik4NVo65JF1F_nZTWNYZAFr48_1UIxNPJyWY1oHsXT_TuYDHRXWdq_SgfBEZKzNz26PAYVIXL24TFl5GgSE2RTk4AP5MdC6fRmGhdF9rQizlNrmUuNA8fPy0UtuZP5hZXRyf2ExGEUm_GtB94Ju71A.jpg",
+            "URL": "https://t.me/JustTechology"
+        },
+        {
+            "NAME": "JAVASCRIPT_COMMUNITY",
+            "NUMBER_OF_MEMBERS": "3928",
+            "TYPE": "TELEGRAM",
+            "IMG": "https://cdn4.telegram-cdn.org/file/DxbeopoWpgLNfARLrk44Ud5oXtNg3OD704lrYkR5aaP1uF_HqMvGD-Lp8d6_ypgBgij9L3cBCfjk_HYhJgVp53iBsu6FgU1rtflvij_cbrt-tU9sUdinxyDnync9gjbUlol150SFGqFiL_-y-NBDhYr9GK9_6OjeBeaR-mjDnvingf2vZjWK3AxOXfBPsIJGmkxpLmpNzAiVQVInceiCwQzYA7SIAM_9rjBaOZIQla0k6Ny4K8X3eLklZU4SiElzfc9nEqjDgIfApebKCj0adeGkfnFSps21QfheIQEeXbx3ooq9D9l1cJxn5_XTCOG7UtQ7-ZI6gZI2STYPBoZAnA.jpg",
+            "URL": "https://t.me/joinchat/GS3PeJCRBRVcSi2q"
+        },
+        {
+            "NAME": "FOX_LEARN_CHANNEL",
+            "NUMBER_OF_MEMBERS": "85700",
+            "TYPE": "YOUTUBE",
+            "IMG": "https://yt3.ggpht.com/ytc/AKedOLQQi2BC3hRTqhPUwfsRAW9rtfPMXk5_An_ggiyt=s88-c-k-c0x00ffffff-no-rj",
+            "URL": "https://www.youtube.com/c/foxlearn/featured"
+        },
+        {
+            "NAME": "KHALID_ESSAADANI",
+            "NUMBER_OF_MEMBERS": "180000",
+            "TYPE": "YOUTUBE",
+            "IMG": "https://yt3.ggpht.com/ytc/AKedOLSdPDzKB_WOGqGwuXNsVKkAwsmHWQY5yCFlapzdoQ=s88-c-k-c0x00ffffff-no-rj",
+            "URL": "https://www.youtube.com/channel/UCjKpb_hadZ3BQkHcTy81MRA"
+        },
+        {
+            "NAME": "PYTHON_ARABIC_COMMUNITY",
+            "NUMBER_OF_MEMBERS": "159000",
+            "TYPE": "YOUTUBE",
+            "IMG": "https://yt3.ggpht.com/ytc/AKedOLSdPDzKB_WOGqGwuXNsVKkAwsmHWQY5yCFlapzdoQ=s88-c-k-c0x00ffffff-no-rj",
+            "URL": "https://www.youtube.com/channel/UCjKpb_hadZ3BQkHcTy81MRA"
+        },
+        {
+            "NAME": "PROGRAMMING_KNOWLEDGE",
+            "NUMBER_OF_MEMBERS": "1560000",
+            "TYPE": "YOUTUBE",
+            "IMG": "https://yt3.ggpht.com/ytc/AKedOLRcOeY51ucLoSfAZ8iD5O5MBiRVfaG5vYHGqKGA=s88-c-k-c0x00ffffff-no-rj",
+            "URL": "https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA"
         }
     ]
 }

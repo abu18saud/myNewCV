@@ -182,5 +182,35 @@
         "PHRASE_2": "Click here to go to (Hair)'s Twitter profile",
         "PHRASE_3": "Click here to go to the profile of (sayings and wisdom of philosophers) on Twitter",
         "PHRASE_4": "Click here to go to Naqa's Twitter profile"
+    },
+    "LEARNING_CHANNELS": {
+        "PROGRAMMING_IS_FUN": "Programming is fun - with Abdullah Al-Salem",
+        "JUST_TECHNOLOGY": "WBS Tech Channel",
+        "PYTHON_COMMUNITY": "Python community",
+        "JAVASCRIPT_COMMUNITY": "JavaScript Community",
+        "FOX_LEARN_CHANNEL": "FoxLearn Channel",
+        "KHALID_ESSAADANI": "Khaled Al-Saadani Channel",
+        "PYTHON_ARABIC_COMMUNITY": "The Arabic Python Community",
+        "PROGRAMMING_KNOWLEDGE": "ProgrammingKnowledge"
+    },
+    "LEARNING_CHANNELS_HINT": {
+        "PROGRAMMING_IS_FUN": "Programming is fun - with Abdullah Al-Salem",
+        "JUST_TECHNOLOGY": "WBS Tech Channel",
+        "PYTHON_COMMUNITY": "Python community",
+        "JAVASCRIPT_COMMUNITY": "JavaScript Community",
+        "FOX_LEARN_CHANNEL": "FoxLearn Channel",
+        "KHALID_ESSAADANI": "Khaled Al-Saadani Channel",
+        "PYTHON_ARABIC_COMMUNITY": "The Arabic Python Community",
+        "PROGRAMMING_KNOWLEDGE": "ProgrammingKnowledge"
+    },
+    "LEARNING_CHANNELS_BENEFIT": {
+        "PROGRAMMING_IS_FUN": "Learn Programming Languages",
+        "JUST_TECHNOLOGY": "Technology Solutions",
+        "PYTHON_COMMUNITY": "Learn the Python language",
+        "JAVASCRIPT_COMMUNITY": "Learn JavaScript",
+        "FOX_LEARN_CHANNEL": "Learn C#",
+        "KHALID_ESSAADANI": "Learn C#",
+        "PYTHON_ARABIC_COMMUNITY": "Learn the Python language",
+        "PROGRAMMING_KNOWLEDGE": "Learn programming languages"
     }
 }
